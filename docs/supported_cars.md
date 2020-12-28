@@ -62,7 +62,7 @@ To assemble the Raspberry pi to the chassis this assembly picture should clarify
 
 ## Reely (German Build)
 
-The Magnet Chassis is relatively hard or expensive to get within Europe/Germany. Here is a suggestion for those people:
+The suggested Chassis are relatively hard or expensive to get within Europe/Germany. Here is a build for those people:
 
 | Part Description | Link | Approximate Cost |
 |---|----|---|
