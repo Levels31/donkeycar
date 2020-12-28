@@ -59,6 +59,22 @@ To assemble the Raspberry pi to the chassis this assembly picture should clarify
 
 ![assy](./assets/screw_assy.jpg)
 
+
+## Reely (German Build)
+
+The Magnet Chassis is relatively hard or expensive to get within Europe/Germany. Here is a suggestion for those people:
+
+| Part Description | Link | Approximate Cost |
+|---|----|---|
+| Reely Brushed RC | [Conrad](https://www.conrad.de/de/p/reely-brushed-1-10-xs-rc-einsteiger-modellauto-elektro-monstertruck-allradantrieb-4wd-rtr-2-4-ghz-inkl-akku-und-ladek-2245867.html) | 80€ |
+| Servo Driver | | 12€ | 
+| 3D Print parts| | |
+| M3x10 screws | | |
+
+The Reely vehicle comes with an integrated servo driver and RC module. To control the motors directly, a separate driver is needed. The customized 3D printed parts are also available at the link above. The build of the vehicle is similar to the other builds.
+
+TBD 
+
 ## Tamaya TT-01 (Advanced Build)
 
 ![donkey](./assets/build_hardware/TT01.png)
